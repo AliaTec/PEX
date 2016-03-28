@@ -1,0 +1,18 @@
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\bin\Debug\PEX.exe
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\bin\Debug\PEX.pdb
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\bin\Debug\PEX.xml
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\PEX.Resources.resources
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\PEX.vbproj.GenerateResource.Cache
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\PEX.exe
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\PEX.xml
+C:\Users\Aliatec-HP\AppData\Local\Temporary Projects\PEX\obj\Debug\PEX.pdb
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\PEX.exe
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\PEX.xml
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\PEX.pdb
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\bin\Debug\PEX.exe
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\bin\Debug\PEX.pdb
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\bin\Debug\PEX.xml
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\PEX.Resources.resources
+C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Debug\PEX.vbproj.GenerateResource.Cache
