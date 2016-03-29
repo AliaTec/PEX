@@ -11,6 +11,9 @@ Module Module1
         Dim TipoC As String
         Dim Fecha As String = "20150309" 'String.Format("{0:yyyyMMdd}", DateTime.Now)
         Dim Path As String = "C:\Users\Aliatec-HP\Documents\Victor\PEX\Ejemplo\"
+        Dim GCC As String = "Z05"
+        Dim LCC As String = "MX012"
+        Dim PayGroup As String = "JJ"
         Dim FileName As String
         Dim Number As String = ""
         con.Open()
@@ -26,7 +29,7 @@ Module Module1
             Number = "001"
         End If
 
-        FileName = "Termination_WAITINGEVENTS_Z02_VN002_VN_D" + Fecha + "_O" + Number + ".csv"
+        FileName = "WAITINGEVENTS_" + GCC + "_" + LCC + "_" + PayGroup + "_D" + Fecha + "_O" + Number + ".csv"
 
 
         Dim cmd As New SqlCommand("spi_TaskRecord_NewBlock_PEX", con)

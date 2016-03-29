@@ -7,3 +7,12 @@ C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Release\PEX.vbproj.GenerateResource.Cach
 C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Release\PEX.exe
 C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Release\PEX.xml
 C:\Users\Aliatec-HP\Desktop\PEX\PEX\obj\Release\PEX.pdb
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\bin\Release\PEX.exe
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\bin\Release\PEX.pdb
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\bin\Release\PEX.xml
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\PEX.Resources.resources
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\PEX.vbproj.GenerateResource.Cache
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\PEX.exe
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\PEX.xml
+C:\Users\Aliatec-HP\Documents\GitHub\PEX\PEX\obj\Release\PEX.pdb
